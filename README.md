@@ -55,8 +55,8 @@ graph TB
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/KingAkeem/personal-rag.git
-cd personal-rag
+git clone https://github.com/AlexPi44/Personal-RAG-system.git
+cd Personal-RAG-system
 ```
 
 ### 2. Auto-Detect Setup (Recommended)
